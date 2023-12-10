@@ -1,0 +1,11 @@
+.classpath
+.project
+bin/kivipaperisakset/Alustus.class
+bin/kivipaperisakset/Kierros.class
+bin/kivipaperisakset/Main.class
+bin/kivipaperisakset/Pelaaja.class
+bin/kivipaperisakset/Peli.class
+bin/kivipaperisakset/test/AlustusTest.class
+bin/kivipaperisakset/test/KierrosTest.class
+bin/kivipaperisakset/test/PelaajaTest.class
+bin/kivipaperisakset/test/PeliTest.class
